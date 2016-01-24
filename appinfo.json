@@ -1,10 +1,10 @@
 {
   "uuid": "4829b9c9-d6e5-422a-b598-2a901e4ec0f8",
-  "shortName": "Filmplakat2",
-  "longName": "Filmplakat2",
+  "shortName": "Filmplakat",
+  "longName": "Filmplakat 3",
   "companyName": "",
-  "versionCode": 123,
-  "versionLabel": "1.2.3",
+  "versionCode": 3,
+  "versionLabel": "3",
   "capabilities": [
     "configurable"
   ],
@@ -71,7 +71,7 @@
         "characterRegex": "[einzwdrvfü schbatulögı]",
         "trackingAdjust": -2,
         "name":"FONT_ROBOTO_REGULAR_32",
-        "file":"fonts/roboto/Roboto-REGULAR_32.ttf"
+        "file":"fonts/roboto/Roboto-Regular_32.ttf"
        },
        {"type":"font",
         "characterRegex": "[uhr ]",
@@ -82,7 +82,7 @@
        {"type":"font",
         "characterRegex": "[0-9 .MDFSJAONoiranuebäzplgstmkv]",
         "name":"FONT_ROBOTO_REGULAR_13",
-        "file":"fonts/roboto/Roboto-REGULAR_13.ttf"
+        "file":"fonts/roboto/Roboto-Regular_13.ttf"
        }
     ]
   }
